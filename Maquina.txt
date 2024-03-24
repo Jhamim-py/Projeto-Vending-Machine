@@ -1,0 +1,11 @@
+Código;Produto;PreçoR$;Quantidade
+1;Batata Frita Rufles 90g;5.0;10
+2;Doritos 400g;20.0;10
+3;Provolone desidratado 100g;35.0;10
+4;Bala de algas marinhas 200g;15.0;10
+5;Ovinhos de amendoim 200g;15.0;10
+6;Snack 80g;9.0;10
+7;Pit stop snack 80g;5.0;10
+8;Coca-cola zero 220ml;5.0;10
+9;Fanta uva 350ml;5.0;10
+10;Guarana Kuat 2l;5.0;10
